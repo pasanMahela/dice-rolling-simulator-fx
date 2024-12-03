@@ -17,4 +17,4 @@
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/dice-simulator-fx.git
+   https://github.com/pasanMahela/dice-rolling-simulator-fx.git
